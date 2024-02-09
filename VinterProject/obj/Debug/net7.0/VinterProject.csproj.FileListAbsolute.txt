@@ -1,0 +1,14 @@
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\bin\Debug\net7.0\VinterProject.exe
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\bin\Debug\net7.0\VinterProject.deps.json
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\bin\Debug\net7.0\VinterProject.runtimeconfig.json
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\bin\Debug\net7.0\VinterProject.dll
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\bin\Debug\net7.0\VinterProject.pdb
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\obj\Debug\net7.0\VinterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\obj\Debug\net7.0\VinterProject.AssemblyInfoInputs.cache
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\obj\Debug\net7.0\VinterProject.AssemblyInfo.cs
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\obj\Debug\net7.0\VinterProject.csproj.CoreCompileInputs.cache
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\obj\Debug\net7.0\VinterProject.dll
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\obj\Debug\net7.0\refint\VinterProject.dll
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\obj\Debug\net7.0\VinterProject.pdb
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\obj\Debug\net7.0\VinterProject.genruntimeconfig.cache
+C:\Users\elias.kylymiesbucht\Desktop\Prr\PRR2\VinterProject\VinterProject\obj\Debug\net7.0\ref\VinterProject.dll
